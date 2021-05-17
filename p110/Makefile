@@ -1,5 +1,5 @@
-%: %.cpp
-	rustc $^ -o $*.exe -Wall -Wextra
+%: %.rs
+	rustc $^ -o $*.exe
 	.\$*.exe
 
 clean:
