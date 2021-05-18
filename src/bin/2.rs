@@ -11,6 +11,6 @@ fn main() {
     let v = vec![1, 2, 3, 4];
     r99p::print_option(my_but_last(&v));
     
-    let v2 = vec!['x', 'y', 'z'];
+    let v2 = vec!['x'];
     r99p::print_option(my_but_last(&v2));
 }
