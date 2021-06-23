@@ -1,4 +1,4 @@
-// (*) Insert an element at a given position into a list.
+// (*) Create a list containing all integers within a given range..
 
 fn range(low : i32, high : i32) -> Vec<i32> {
     let mut res= vec![];

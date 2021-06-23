@@ -1,4 +1,4 @@
-// (*) Insert an element at a given position into a list.
+// (*) Generate a random permutation of the elements of a list.
 
 extern crate rand;
 use rand::Rng;

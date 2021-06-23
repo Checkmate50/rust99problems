@@ -1,4 +1,4 @@
-// (*) Insert an element at a given position into a list.
+// (*) Extract a given number of randomly selected elements from a list.
 
 extern crate rand;
 use rand::Rng;
