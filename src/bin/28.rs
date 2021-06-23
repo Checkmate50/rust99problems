@@ -1,4 +1,4 @@
-// (**) Group the elements of a set into disjoint subsets.
+// Sorting a list of lists according to length of sublists
 
 trait HasLength {
     fn leng(&self) -> usize;
